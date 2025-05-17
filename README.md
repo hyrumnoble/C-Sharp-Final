@@ -1,5 +1,5 @@
 # Overview
-
+My name is Hyrum Noble!
 I'm Interested in Learning programming languages. Now I'm starting my journey with C# which is new to me and I'm excite to learn and grow as a developer
 
 This is my final project, but I will still make changes as I continue learning.
