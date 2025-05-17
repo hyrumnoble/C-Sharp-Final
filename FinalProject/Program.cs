@@ -1,7 +1,4 @@
-﻿using System;
-using System.IO;
-
-//class = Adventure Game
+﻿//class = Adventure Game
 class AdventureGame
 {
     struct Player
@@ -15,7 +12,7 @@ class AdventureGame
         //inquire player's name
         Console.Write("Enter your name: ");
         //stores player's name
-        string playerName = Console.ReadLine();
+        var playerName = Console.ReadLine();
         Player player = new Player { Name = playerName, IsAlive = true };
 
         bool playing = true;
